@@ -1,4 +1,4 @@
-# Swr Auth
+# SWR Auth
 
 🔒 A simple authentication to test the SWR.
 
